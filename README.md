@@ -34,5 +34,5 @@ if you wan't generate controller.
 use flag `-c=false`
 
 ```bash
-ga-generate -c=false [domain]
+ca-generate -c=false [domain]
 ```
